@@ -1,0 +1,6 @@
+{
+  "name": "Kaveesha & Ashen - 2nd Anniversary",
+  "description": "A romantic, dreamy single-file 2nd anniversary webpage for Kaveesha and Ashen featuring live counter, typewriter love letter, photo slideshow, and memory gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
