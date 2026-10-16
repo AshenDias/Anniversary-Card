@@ -1,4 +1,4 @@
-# 💖 Happy 2nd Anniversary, Kaveesha! 💕
+# 💖 Happy 2nd Anniversary,  💕
 
 > *"Two years with you have been the most beautiful chapter of my life. Every moment with you feels like a dream I never want to wake from."*  
 > — **Ashen**
@@ -13,16 +13,6 @@
 
 Experience the anniversary webpage live on any mobile device or browser:  
 👉 **[https://ashendias.github.io/Anniversary-Card/](https://ashendias.github.io/Anniversary-Card/)**
-
----
-
-## 📖 Our Story
-
-- **Boyfriend:** Ashen
-- **Girlfriend:** Kaveesha
-- **Together Since:** October 10, 2024
-- **Occasion:** 2nd Anniversary
-- **Theme:** Soft blush pink, romantic, dreamy, and magical
 
 ---
 
